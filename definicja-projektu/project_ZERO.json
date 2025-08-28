@@ -1,0 +1,126 @@
+{
+  "project_name": " ",
+  "version": " ",
+  "description": " ",
+  "goals": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "technologies": {
+    "backend": {
+      "language": "",
+      "database": "",
+      "other": ""
+    },
+    "frontend": {
+      "html_css": "",
+      "js": "",
+      "other": ""
+    },
+    "hosting_requirements": {
+      "type": "",
+      "limitations": "",
+      "security": ""
+    }
+  },
+  "architecture": {
+    "overview": "",
+    "modules": [
+      {
+        "name": "",
+        "description": "",
+        "implementation": ""
+      },
+      {
+        "name": "",
+        "description": "",
+        "implementation": ""
+      },
+      {
+        "name": "",
+        "description": "",
+        "implementation": ""
+      },
+      {
+        "name": "",
+        "description": "",
+        "implementation": ""
+      }
+    ],
+    "data_flow": ""
+  },
+  "features": [
+    {
+      "name": "",
+      "description": "",
+      "priority": "",
+      "implementation": ""
+    },
+    {
+      "name": "",
+      "description": "",
+      "priority": "",
+      "implementation": ""
+    },
+    {
+      "name": "",
+      "description": "",
+      "priority": "",
+      "implementation": ""
+    },
+    {
+      "name": "",
+      "description": "",
+      "priority": "",
+      "implementation": ""
+    },
+    {
+      "name": "",
+      "description": "",
+      "priority": "",
+      "implementation": ""
+    }
+  ],
+  "requirements": {
+    "functional": [
+      "",
+      ""
+    ],
+    "non_functional": [
+      "",
+      "",
+      ""
+    ],
+    "constraints": [
+      "",
+      ""
+    ]
+  },
+  "development_plan": {
+    "timeline": "",
+    "steps": [
+      "Krok 1:",
+      "Krok 2:",
+      "Krok 3:",
+      "Krok 4:",
+      "Krok 5:",
+      "Krok 6:",
+      "Krok 7:"
+    ],
+    "tools": [
+      "Edytor:",
+      "Testy:",
+      "Wersjonowanie: Git (nawet lokalnie)."
+    ],
+    "risks": [
+      "",
+      ""
+    ]
+  },
+  "maintenance": {
+    "updates": "",
+    "backup": ""
+  }
+}
